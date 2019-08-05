@@ -16,3 +16,8 @@ The modules
     partition
     sorter
 are necessary for use. partition and sorter randomize the flower data and split into training and testing sets. activation_funtions define different types of neural net activation functions as well as their derivatives for use in backpropagation.
+
+Certain features are still under construction
+- softmax activation function
+- cross entropy loss function
+- initialized biases
