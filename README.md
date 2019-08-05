@@ -21,3 +21,4 @@ Certain features are still under construction
 - softmax activation function
 - cross entropy loss function
 - initialized biases
+- use in regression contexts such as for the forest fire datasets
